@@ -1,2 +1,2 @@
-npx kill-port 5000 & npx kill-port 3000 
-tsc --watch & npm run dev
+npx kill-port 80 
+npm run dev
