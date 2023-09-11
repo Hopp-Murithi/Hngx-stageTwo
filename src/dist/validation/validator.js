@@ -13,4 +13,4 @@ const verifyName = (name) => {
     }
 };
 exports.verifyName = verifyName;
-//# sourceMappingURL=validtaor.js.map
+//# sourceMappingURL=validator.js.map
